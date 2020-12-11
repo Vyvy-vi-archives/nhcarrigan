@@ -19,7 +19,7 @@ setup(
     author_email="vyom.j@pm.me",
     license="Unlicense",
     classifiers=[
-        "License :: OSI Approved :: Unlicense",
+        "License :: OSI Approved :: MIT",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.9",
     ],
