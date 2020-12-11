@@ -17,9 +17,9 @@ setup(
     url="https://github.com/Vyvy-vi/nhcarrigan",
     author="Vyvy-vi",
     author_email="vyom.j@pm.me",
-    license="Unlicense",
+    license="MIT",
     classifiers=[
-        "License :: OSI Approved :: MIT",
+        "License :: OSI Approved :: MIT License",
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.9",
     ],
